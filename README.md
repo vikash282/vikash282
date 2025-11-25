@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Data Science and Generative AI
 - 📫 How to reach me email: hurshit282@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: IYKYK
+- ⚡ check out my repositories for my work
+  
 
 <!---
 vikash282/vikash282 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
