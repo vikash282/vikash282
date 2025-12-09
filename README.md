@@ -1,7 +1,7 @@
 - 👋 Hi, I’m VikashPandey
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning Data Science and Generative AI
-- 📫 How to reach me email: hurshit282@gmail.com
+- 📫 How to reach me email: vikashpandey4774@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ check out my repositories for my work
   
